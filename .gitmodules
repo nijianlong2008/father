@@ -1,0 +1,3 @@
+[submodule "view/son"]
+	path = view/son
+	url = https://github.com/nijianlong2008/son.git
